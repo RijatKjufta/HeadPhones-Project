@@ -1,0 +1,75 @@
+.bg-style{
+    background-image: url(./assets/img/gallery00.jpg);
+    width: 100% !important;
+    height: 830px;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+.bg-light{
+    background: linear-gradient(100deg , #fffb00, #444442) !important;
+}
+.welcome-text{
+    text-align: center;
+    padding-top: 2em;
+    position: relative;
+}
+h5{
+text-align: center;
+padding-top: 13em;
+}
+h1{
+    text-align: center;
+}
+.button-main{
+    color: white;
+}
+.section2{
+    background: linear-gradient(45deg, #FFC107, #FFC107);
+    text-align: center;
+    height: 80px;
+}
+
+.section-2-text{
+    text-align: center;
+}
+.section-2-style{
+  
+    margin-top: -3em;
+   
+}
+.row{
+    margin-top: 6em !important;
+    margin-left: 6em !important;
+}
+.card-title{
+    padding-top: 2em !important;
+}
+.hottest{
+    position: absolute;
+    margin-top: 1em;
+    margin-left: 3em;
+}.div-3-style{
+    background: rgb(57, 112, 5);
+    height: 8em;
+}
+
+.section-3-style{
+    padding-top: 1em;
+}
+h2{
+    text-align: center;
+}
+.footer-style{
+    height: 10em;
+    background: grey;
+}
+
+.text-footer-style{
+    text-align: center;
+    padding-top: 3em;
+}
+
+
+
+
